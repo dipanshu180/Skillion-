@@ -1,8 +1,6 @@
 MultiPDF Chat App — Built by Dipanshu
 
 Live Demo: https://chat-to-pdf-c91v.onrender.com/
-A smart PDF chatbot that lets you interact with multiple documents using natural language — ask questions, get instant answers, all grounded in the actual PDF content.
-
 ---
 
 About the Project
